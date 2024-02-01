@@ -55,7 +55,7 @@ const NFTDetails = (props) => {
                     </Text>
 
                     <Text
-                        style={[styles.ansText], { flex: 1, marginLeft: 15 }}
+                        style={[styles.ansText, { flex: 1, marginLeft: 15 }]}
                     >
                         {mintAddress}
                     </Text>
